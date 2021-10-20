@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at **Trybe**
 
-- 🌱 I’m currently learning **FrontEnd Development**
+- 🌱 I’m currently learning **Frontend Development**
 
 - 📫 How to reach me **thehaseol@gmail.com**
 
