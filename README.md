@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at **Unesa - Universidade Estácio de Sá**
 
-- 🌱 I’m currently learning **information systems**
+- 🌱 I’m currently learning **Information Systems**
 
 - 📫 How to reach me **thehaseol@gmail.com**
 
