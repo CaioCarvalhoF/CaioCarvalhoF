@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Caio Carvalho</h1>
 <h3 align="center">A FullStack student from Brazil</h3>
 
-- 🔭 I’m currently studying at **Trybe**
+- 🔭 I’m currently studying at **Unesa**
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **information systems**
 
 - 📫 How to reach me **thehaseol@gmail.com**
 
